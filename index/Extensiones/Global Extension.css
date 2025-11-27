@@ -1,0 +1,43 @@
+body {
+        background-color: #2f355a;
+        font-family: Arial, sans-serif;
+        color: white;
+}
+img{
+        margin: auto;
+}
+figure {
+        background: white;
+        padding: 10px;
+        border-radius: 10px;
+        width: 140px;
+        box-shadow: 5px 5px 0px #1d223a;
+        margin: 0 auto;
+}
+figure img {
+        width: 100%;
+        border-radius: 5px;
+}
+h1{
+        text-align: center;
+}
+p{
+        margin: 30px;
+}
+img#gif{
+        width: 500px;
+        display: block;
+        text-align: center;
+}
+a{
+        display: block;
+        color: white;
+        text-decoration: none;
+}
+a:hover{
+        color: rgb(204, 16, 204);
+}
+:visited{
+        color: inherit;
+        text-decoration: none;
+}
