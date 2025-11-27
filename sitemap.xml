@@ -9,10 +9,64 @@
 
 <url>
   <loc>https://crades12.github.io/</loc>
-  <lastmod>2025-10-28T12:45:03+00:00</lastmod>
-  <priority>1.0</priority>
+  <lastmod>2025-11-27T12:02:40+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
-
+<url>
+  <loc>https://crades12.github.io/index.html</loc>
+  <lastmod>2025-11-27T12:02:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://crades12.github.io/index/Paginas/Paginas-aliadas.html</loc>
+  <lastmod>2025-11-27T12:02:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://crades12.github.io/index/Extensiones/Extensiones.html</loc>
+  <lastmod>2025-11-27T12:02:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://crades12.github.io/index/Clanes/Clanes.html</loc>
+  <lastmod>2025-11-27T12:02:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://crades12.github.io/index/Razas-Votos/Razas-y-Votos.html</loc>
+  <lastmod>2025-11-27T12:02:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://crades12.github.io/index/Extensiones/Extension-hakari/Extension-hakari.html</loc>
+  <lastmod>2025-11-27T12:02:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://crades12.github.io/index/Extensiones/Extension-inumaki/Extension-inumaki.html</loc>
+  <lastmod>2025-11-27T12:02:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://crades12.github.io/index/Extensiones/Extension-ishigori/Extension-Ishigori.html</loc>
+  <lastmod>2025-11-27T12:02:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://crades12.github.io/index/Extensiones/Extension-itadori/Extension-Itadori.html</loc>
+  <lastmod>2025-11-27T12:02:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://crades12.github.io/index/Extensiones/Extension-mahoraga/Extension-Mahoraga.html</loc>
+  <lastmod>2025-11-27T12:02:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://crades12.github.io/index/Extensiones/Extesion-higuruma/Extension-Clan-de-Higuruma.html</loc>
+  <lastmod>2025-11-27T12:02:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
 
 
 </urlset>
