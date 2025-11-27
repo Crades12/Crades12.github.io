@@ -46,3 +46,11 @@ p{
 li.nav:hover{
     color: red;
 }
+a{
+        display: block;
+        color: white;
+        text-decoration: none;
+}
+a:hover{
+        color: rgb(204, 16, 204);
+}
