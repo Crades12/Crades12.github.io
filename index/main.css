@@ -55,3 +55,6 @@ li:hover{
 figure:hover{
         background-color: black;
 }
+figure:hover{
+        transform: scale(1.10);
+}
