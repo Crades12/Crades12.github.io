@@ -60,6 +60,10 @@ figure:hover{
 }
 p{
         text-align: center;
-        color: rgb(236, 146, 71);
+        color: rgb(0, 0, 0);
         font-size: 25px;
+        text-shadow:#1d223a 5px 6px 4px;
+}
+p:hover{
+        text-decoration: line-through 3px #000;
 }
