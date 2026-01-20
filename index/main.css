@@ -58,3 +58,7 @@ figure:hover{
 figure:hover{
         transform: scale(1.10);
 }
+p{
+        text-align: right;
+        color: white;
+}
