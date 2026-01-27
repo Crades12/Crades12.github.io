@@ -51,6 +51,9 @@ a{
         color: white;
         text-decoration: none;
 }
+a.pan{
+    display: inline-block;
+}
 a:hover{
         color: rgb(204, 16, 204);
 }
