@@ -53,6 +53,7 @@ a{
 }
 a.pan{
     display: inline-block;
+    color: pink;
 }
 a:hover{
         color: rgb(204, 16, 204);
