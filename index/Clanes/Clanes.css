@@ -58,3 +58,8 @@ a.pan{
 a:hover{
         color: rgb(204, 16, 204);
 }
+#gg{
+    display: flex;
+    justify-content: center;
+    width: 50%;
+}
