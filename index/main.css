@@ -36,6 +36,7 @@ figure img {
 }
 h1{
         text-shadow:#1d223a 5px 6px 4px;
+         color: #FFFFFF;
 }
 figcaption {
         margin-top: 10px;
@@ -53,7 +54,8 @@ li{
         width: 100%/3;
         text-align: center;
         font-weight: bold;
-
+        text-shadow:#1d223a 1px 1px 6px;
+        color: #FFFFFF;
 }
 li:hover{
         text-decoration: line-through 3px #000;
@@ -64,12 +66,12 @@ figure:hover{
 figure:hover{
         transform: scale(1.10);
 }
-p{
+h2{
         text-align: center;
-        color: rgb(0, 0, 0);
+        color: #FFFFFF;
         font-size: 25px;
         text-shadow:#1d223a 5px 6px 4px;
 }
-p:hover{
+h2:hover{
         text-decoration: line-through 3px #000;
 }
