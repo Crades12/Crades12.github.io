@@ -18,6 +18,16 @@ body {
         background-attachment: fixed; 
         background-repeat: no-repeat; 
 }
+#sor{
+        position: absolute;
+        left: -1000px;
+}
+#sor:focus{
+        position: static;
+}
+.descripcion{
+        font-size: 0%;
+}
 table {
         margin: 40px auto;
         border-spacing: 40px;
