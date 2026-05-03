@@ -3,6 +3,12 @@ body {
         font-family: Arial, sans-serif;
         color: white;
 }
+#sor{
+        position: absolute;
+        left: -1000px;
+        background-color: #000;
+        color: white;
+}
 img{
         margin: auto;
 }
