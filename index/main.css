@@ -21,6 +21,8 @@ body {
 #sor{
         position: absolute;
         left: -1000px;
+        background-color: #000;
+        color: white;
 }
 #sor:focus{
         position: static;
